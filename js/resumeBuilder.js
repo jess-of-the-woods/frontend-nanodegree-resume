@@ -87,6 +87,12 @@ var projects = {
     "dates": "February 2016",
     "description": "A JavaScript quote-generator made with Mahuta Hoerara-Smith",
     "images": ["images/quote-generator.png"]
+  },
+  {
+    "title": "Calculator",
+    "dates": "March 2016",
+    "description": "A JavaScript calculator built with Lizzie",
+    "images": ["images/calculator.png"]
   }]
 };
 
